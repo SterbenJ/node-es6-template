@@ -1,0 +1,21 @@
+{
+  "name": "shopspider",
+  "version": "1.0.0",
+  "description": "something shop items api",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "NoraH1to",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.10.3",
+    "@babel/core": "^7.10.3",
+    "@babel/node": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "iconv-lite": "^0.6.0",
+    "js-md5": "^0.7.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
